@@ -1,6 +1,6 @@
 # Bank App with AI Chatbot Integration
 
-![Bank App Banner](https://via.placeholder.com/1200x400.png?text=Bank+App+with+AI+Chatbot)
+
 
 Welcome to the **Bank App with AI Chatbot Integration**! This project demonstrates a robust banking application built with **Spring Boot** and enhanced with an intelligent AI chatbot using **Dialogflow**. The chatbot provides seamless customer support, making banking more accessible and efficient.
 
@@ -94,14 +94,17 @@ Welcome to the **Bank App with AI Chatbot Integration**! This project demonstrat
 
 ## 📸 Screenshots
 
-### 1. **Homepage**
-![Homepage](https://via.placeholder.com/800x400.png?text=Homepage)
+### 1. **Authentication**
+![Homepage](https://github.com/Navaneetha-Krishnan-S/bank_app_ai_chatbot/blob/main/Authentication.png)
 
-### 2. **AI Chatbot Interaction**
-![Chatbot](https://via.placeholder.com/800x400.png?text=AI+Chatbot+Interaction)
+### 2. **Homepage**
+![Homepage](https://github.com/Navaneetha-Krishnan-S/bank_app_ai_chatbot/blob/main/Services.png)
 
-### 3. **Transaction History**
-![Transaction History](https://via.placeholder.com/800x400.png?text=Transaction+History)
+### 3. **AI Chatbot Interaction**
+![Chatbot](https://github.com/Navaneetha-Krishnan-S/bank_app_ai_chatbot/blob/main/Chatbot.png)
+
+### 4. **Transaction History**
+![Transaction History](https://github.com/Navaneetha-Krishnan-S/bank_app_ai_chatbot/blob/main/Transaction.png)
 
 ---
 
